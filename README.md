@@ -2,14 +2,15 @@
 
 [FreeDVDBoot With OPL 1.2.0 beta Autoboot](https://github.com/GorGylka/FreeDVDBoot-OPL/blob/master/PREBUILT%20ISOs/All%20PS2%20Slims.%20FreeeDVDBoot%20%2B%20OPL%201.2.0%20Beta%202048.zip)
 
-Not the best way to inject your ELF inside FreeDVDBoot, but here is how its done:
+FreeDVDBoot with replaced uLaunchELF to Basic-Boot-Loader that autoboot OPL 1.2.0 beta
 
-Step 1: Convert ELF File to ISO File https://www.ps2-home.com/forum/viewtopic.php?t=11937#p47984
+in fact, you can run any ELF file by replacing AAA/OPNPS2LD.ELF
 
-Step 2: Patch previously created ISO via FreeDVDBoot ESR auto jabu
+Step 1 - Burn Final.iso to DVD Disc
 
-Step 3: Burn
+Step 2 - Copy all files from USB DRIVE folder to your USB FAT32 Drive
 
+Step 2 - you're done!
 
 PlayStation 2 DVD Player Exploit. This allows you to burn your own PlayStation 2 homebrew discs and play them on an unmodified console as seen in the [demo video](https://www.youtube.com/watch?v=ez0y-hz3VuM). With uLaunchELF as the initial program, users can include multiple homebrew programs on the same disc.
 
