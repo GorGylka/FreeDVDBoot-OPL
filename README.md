@@ -8,7 +8,7 @@ in fact, you can run any ELF file by replacing AAA/OPNPS2LD.ELF
 
 Step 1 - Burn Final.iso to DVD Disc
 
-Step 2 - Copy all files from USB DRIVE folder to your USB FAT32 Drive
+Step 2 - Copy all files from USB DRIVE folder to your USB FAT32/exFat Drive (or MX4SIO, if you use it)
 
 Step 2 - you're done!
 
