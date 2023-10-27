@@ -12,6 +12,8 @@ Step 2 - Copy all files from USB DRIVE folder to your USB FAT32/exFat Drive (or 
 
 Step 2 - you're done!
 
+https://github.com/GorGylka/FreeDVDBoot-OPL/assets/23078518/40d20c52-62f6-461c-a597-d0f96fcb08b8
+
 PlayStation 2 DVD Player Exploit. This allows you to burn your own PlayStation 2 homebrew discs and play them on an unmodified console as seen in the [demo video](https://www.youtube.com/watch?v=ez0y-hz3VuM). With uLaunchELF as the initial program, users can include multiple homebrew programs on the same disc.
 
 For technical details please refer to my [blog post](https://cturt.github.io/freedvdboot.html).
