@@ -10,7 +10,7 @@ Step 1 - Burn Final.iso to DVD Disc
 
 Step 2 - Copy all files from USB DRIVE folder to your USB FAT32/exFat Drive (or MX4SIO, if you use it)
 
-Step 2 - you're done!
+You're done!
 
 ![FDVDB](https://github.com/GorGylka/FreeDVDBoot-OPL/assets/23078518/dc997793-3ede-421f-b793-b1e28e318cc6)
 
